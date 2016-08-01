@@ -1,2 +1,3 @@
 # hello-world
-hello world. ready to be immersed
+Hi humans, Muc0 here, a new coding dummy. 
+looking forward to learn and provide solutions
